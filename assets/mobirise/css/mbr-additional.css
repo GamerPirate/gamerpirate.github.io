@@ -2091,7 +2091,7 @@ body {
 .cid-r3TNX9ppTq {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/game-cover-11222018-1920x1080.jpg");
+  background-image: url("../../../assets/images/supercar-2-1920x1080.jpg");
 }
 .cid-r3TNX9ppTq B {
   color: #ffffff;
@@ -2173,7 +2173,7 @@ body {
 .cid-rfy24NGqc0 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x1080.jpg");
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
 }
 .cid-rfy24NGqc0 B {
   color: #ffffff;
@@ -2203,26 +2203,6 @@ body {
 }
 .cid-r3TOvWptC9 B {
   color: #000000;
-}
-.cid-rfy17jRj5j {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-1920x1255.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rfy17jRj5j .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rfy17jRj5j .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rfy17jRj5j .mbr-text {
-    text-align: center;
-  }
 }
 .cid-r3TOep5Vin {
   padding-top: 45px;
@@ -6136,106 +6116,6 @@ body {
 .cid-rbGcPl2iUX .mbr-text FONT {
   color: #ffffff;
 }
-.cid-rbGcPlTiDk {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rbGcPnjRtH {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background-color: #000000;
-}
-.cid-rbGcPnjRtH h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rbGcPnjRtH .progress {
-  width: 100%;
-}
-.cid-rbGcPnjRtH .title-wrap {
-  display: -webkit-flex;
-  justify-content: space-between;
-  -webkit-justify-content: space-between;
-}
-.cid-rbGcPnjRtH progress {
-  height: 8px;
-}
-.cid-rbGcPnjRtH .progressbar-number {
-  display: inline-block;
-}
-.cid-rbGcPnjRtH .progress-primary {
-  background: rgba(206, 206, 206, 0.4);
-  border: none;
-  outline: none;
-}
-.cid-rbGcPnjRtH .progress-primary::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rbGcPnjRtH .mbr-section-subtitle {
-  color: #cccccc;
-}
-.cid-rbGcPnjRtH .section-content-title {
-  font-weight: 500;
-  color: #ffffff;
-}
-.cid-rbGcPnjRtH .progress_value {
-  position: relative;
-}
-.cid-rbGcPnjRtH .progress1 .progressbar-number:before,
-.cid-rbGcPnjRtH .progress2 .progressbar-number:before,
-.cid-rbGcPnjRtH .progress3 .progressbar-number:before,
-.cid-rbGcPnjRtH .progress4 .progressbar-number:before,
-.cid-rbGcPnjRtH .progress5 .progressbar-number:before {
-  position: absolute;
-  right: 15px;
-  top: 0;
-}
-.cid-rbGcPnjRtH progress[value]::-webkit-progress-bar {
-  background: rgba(206, 206, 206, 0.4);
-}
-.cid-rbGcPnjRtH progress::-webkit-progress-value {
-  background: #ffffff;
-}
-.cid-rbGcPnjRtH progress[value]::-moz-progress-bar {
-  background: #ffffff;
-}
-.cid-rbGcPnjRtH progress::-ms-fill {
-  background: #ffffff;
-}
-.cid-rbGcPnjRtH .progress1 .progressbar-number:before {
-  content: '20';
-}
-.cid-rbGcPnjRtH .progress2 .progressbar-number:before {
-  content: '100';
-}
-.cid-rbGcPnjRtH .progress3 .progressbar-number:before {
-  content: '100';
-}
-.cid-rbGcPnjRtH .progress4 .progressbar-number:before {
-  content: '100';
-}
-.cid-rbGcPnjRtH .progress5 .progressbar-number:before {
-  content: '100';
-}
-@media (min-width: 768px) {
-  .cid-rbGcPnjRtH .text-elements {
-    padding-right: 3rem;
-  }
-  .cid-rbGcPnjRtH .progress_elements {
-    padding-left: 3rem;
-  }
-}
-.cid-rbGcPnjRtH .mbr-section-title {
-  color: #ffffff;
-}
-.cid-rbGcPnjRtH .section-content-text {
-  color: #cccccc;
-}
-.cid-rbGcPnjRtH .progressbar-title p,
-.cid-rbGcPnjRtH .progress_value {
-  color: #efefef;
-}
 .cid-rbGcPvk2tm {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -6783,7 +6663,7 @@ body {
 .cid-rfvizpZBzC {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x1080.jpg");
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
 }
 .cid-rfvtBB06gY {
   padding-top: 15px;
@@ -6880,7 +6760,7 @@ body {
 .cid-rfvGp0aVGh {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x1080.jpg");
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
 }
 @media (min-width: 992px) {
   .cid-rfvGp0aVGh .mbr-figure {
