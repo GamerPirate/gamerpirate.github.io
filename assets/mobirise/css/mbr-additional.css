@@ -5977,7 +5977,7 @@ body {
 .cid-rbGcPdLzBf {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #000000;
+  background-image: url("../../../assets/images/demon-5r-1920x10800.jpg");
 }
 .cid-rbGcPdLzBf h2 {
   text-align: center;
@@ -6055,11 +6055,6 @@ body {
 .cid-rbGcPdLzBf .mbr-section-title B {
   color: #f9f9f9;
 }
-.cid-rbGcPfSXT2 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #000000;
-}
 .cid-rbGcPiEBOx {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -6068,53 +6063,130 @@ body {
 .cid-rbGcPiEBOx H2 {
   color: #ffffff;
 }
-.cid-rbGcPl2iUX {
-  padding-top: 15px;
+.cid-rgX2uFvb5n {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #000000;
+}
+.cid-rgX2uFvb5n .mbr-text,
+.cid-rgX2uFvb5n blockquote {
+  color: #767676;
+}
+.cid-rgX2uFvb5n .mbr-text I {
+  color: #ffffff;
+}
+.cid-rgX2uFvb5n .mbr-text {
+  color: #ffffff;
+}
+.cid-rgX1webI66 {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rbGcPfSXT2 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #000000;
+}
+.cid-rgX1Cf00iN {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-rgX1zxpCfF {
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #000000;
 }
-.cid-rbGcPl2iUX .counter-container {
-  color: #767676;
-}
-.cid-rbGcPl2iUX .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rbGcPl2iUX .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rbGcPl2iUX .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rbGcPl2iUX .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
+.cid-rgX1zxpCfF h3 {
   text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #000000;
+  font-weight: 300;
+}
+.cid-rgX1zxpCfF .progress {
+  width: 100%;
+}
+.cid-rgX1zxpCfF .title-wrap {
+  display: -webkit-flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-rgX1zxpCfF progress {
+  height: 8px;
+}
+.cid-rgX1zxpCfF .progressbar-number {
+  display: inline-block;
+}
+.cid-rgX1zxpCfF .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-rgX1zxpCfF .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rgX1zxpCfF .mbr-section-subtitle {
+  color: #cccccc;
+}
+.cid-rgX1zxpCfF .section-content-title {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-rgX1zxpCfF .progress_value {
+  position: relative;
+}
+.cid-rgX1zxpCfF .progress1 .progressbar-number:before,
+.cid-rgX1zxpCfF .progress2 .progressbar-number:before,
+.cid-rgX1zxpCfF .progress3 .progressbar-number:before,
+.cid-rgX1zxpCfF .progress4 .progressbar-number:before,
+.cid-rgX1zxpCfF .progress5 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-rgX1zxpCfF progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-rgX1zxpCfF progress::-webkit-progress-value {
   background: #ffffff;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
 }
-.cid-rbGcPl2iUX .mbr-text SPAN {
+.cid-rgX1zxpCfF progress[value]::-moz-progress-bar {
+  background: #ffffff;
+}
+.cid-rgX1zxpCfF progress::-ms-fill {
+  background: #ffffff;
+}
+.cid-rgX1zxpCfF .progress1 .progressbar-number:before {
+  content: '22';
+}
+.cid-rgX1zxpCfF .progress2 .progressbar-number:before {
+  content: '100';
+}
+.cid-rgX1zxpCfF .progress3 .progressbar-number:before {
+  content: '100';
+}
+.cid-rgX1zxpCfF .progress4 .progressbar-number:before {
+  content: '100';
+}
+.cid-rgX1zxpCfF .progress5 .progressbar-number:before {
+  content: '100';
+}
+@media (min-width: 768px) {
+  .cid-rgX1zxpCfF .text-elements {
+    padding-right: 3rem;
+  }
+  .cid-rgX1zxpCfF .progress_elements {
+    padding-left: 3rem;
+  }
+}
+.cid-rgX1zxpCfF .mbr-section-title {
   color: #ffffff;
 }
-.cid-rbGcPl2iUX .mbr-text B {
-  color: #ffffff;
+.cid-rgX1zxpCfF .section-content-text {
+  color: #cccccc;
 }
-.cid-rbGcPl2iUX .mbr-text LI {
-  color: #ffffff;
-}
-.cid-rbGcPl2iUX .mbr-text FONT {
-  color: #ffffff;
+.cid-rgX1zxpCfF .progressbar-title p,
+.cid-rgX1zxpCfF .progress_value {
+  color: #efefef;
 }
 .cid-rbGcPvk2tm {
   padding-top: 45px;
