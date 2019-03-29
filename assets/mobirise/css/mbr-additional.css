@@ -2110,6 +2110,24 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/1-1920x1080.jpg");
 }
+.cid-rlR0CBV7yC {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
+}
+.cid-rlR0CBV7yC B {
+  color: #ffffff;
+}
+.cid-rlR0CBV7yC H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rlR0CBV7yC DIV {
+  color: #ffffff;
+}
+.cid-rlR0CBV7yC H3 {
+  text-align: center;
+}
 .cid-r3TNX9ppTq {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2195,7 +2213,7 @@ body {
 .cid-rfy24NGqc0 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
+  background-image: url("../../../assets/images/2019-03-23-1-1280x1024.png");
 }
 .cid-rfy24NGqc0 B {
   color: #ffffff;
@@ -2205,6 +2223,13 @@ body {
 }
 .cid-rfy24NGqc0 DIV {
   color: #ffffff;
+}
+.cid-rfy24NGqc0 H3 {
+  text-align: center;
+}
+.cid-rfy24NGqc0 .mbr-text,
+.cid-rfy24NGqc0 .mbr-section-btn {
+  text-align: center;
 }
 .cid-r3TRRzozvq {
   padding-top: 45px;
@@ -6178,16 +6203,16 @@ body {
   background: #ffffff;
 }
 .cid-rgX1zxpCfF .progress1 .progressbar-number:before {
-  content: '28';
+  content: '39';
 }
 .cid-rgX1zxpCfF .progress2 .progressbar-number:before {
-  content: '61';
+  content: '90';
 }
 .cid-rgX1zxpCfF .progress3 .progressbar-number:before {
-  content: '20';
+  content: '25';
 }
 .cid-rgX1zxpCfF .progress4 .progressbar-number:before {
-  content: '0';
+  content: '10';
 }
 .cid-rgX1zxpCfF .progress5 .progressbar-number:before {
   content: '100';
@@ -6757,7 +6782,7 @@ body {
 .cid-rfvizpZBzC {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x108001.jpg");
 }
 .cid-rfvtBB06gY {
   padding-top: 15px;
@@ -6854,7 +6879,7 @@ body {
 .cid-rfvGp0aVGh {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x10800.jpg");
+  background-image: url("../../../assets/images/player-with-logo-in-the-shelter-1920x108001.jpg");
 }
 @media (min-width: 992px) {
   .cid-rfvGp0aVGh .mbr-figure {
