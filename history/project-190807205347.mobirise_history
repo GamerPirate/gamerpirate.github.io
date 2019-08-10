@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Gamer Pirate",
+    "screenshot": "screenshot.png",
+    "versionFirst": "4.10.7",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "4.10.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
