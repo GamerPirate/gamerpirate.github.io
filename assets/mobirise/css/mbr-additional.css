@@ -1076,7 +1076,7 @@ section.lazy-placeholder:after {
 .cid-rvIuLl8ZKO {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/level-6-1920x1080.jpg");
+  background-image: url("../../../assets/images/worldbetanightwithmavericklighton8-1-1920x1080.png");
 }
 .cid-rz9JQN6eko {
   padding-top: 0px;
@@ -1090,6 +1090,26 @@ section.lazy-placeholder:after {
 }
 .cid-rweW10Harg H2 {
   color: #ffffff;
+}
+.cid-sjrSO8P2PK {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-sjrSO8P2PK h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sjrSO8P2PK p {
+  color: #767676;
+  text-align: left;
+}
+.cid-sjrSO8P2PK .card-box {
+  padding-top: 2rem;
+}
+.cid-sjrSO8P2PK .card-wrapper {
+  height: 100%;
 }
 .cid-r3UkFcFXGB {
   padding-top: 0px;
@@ -6681,10 +6701,47 @@ section.lazy-placeholder:after {
 .cid-r3TMLS1MFu .dropdown-item:hover {
   color: #a6a6a6 !important;
 }
-.cid-rwzVtgokD5 {
-  padding-top: 135px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/4th-anniversary-1920x1080.png");
+.cid-sjxLs9qmvT {
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/nightlife-1920x1080.png");
+}
+.cid-sjxLs9qmvT .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.cid-sjxLs9qmvT .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-sjxLs9qmvT {
+    align-items: flex-end;
+  }
+  .cid-sjxLs9qmvT .row {
+    justify-content: flex-start;
+  }
+  .cid-sjxLs9qmvT .content-wrap {
+    width: 51%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-sjxLs9qmvT .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sjxLs9qmvT {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-sjxLs9qmvT .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-sjxLs9qmvT .content-wrap {
+    width: 100%;
+  }
 }
 .cid-rBdZje8oKg {
   padding-top: 45px;
@@ -6865,7 +6922,7 @@ section.lazy-placeholder:after {
 }
 .cid-r3TO1YY2lM {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 90px;
   background-color: #000000;
 }
 .cid-r3TO1YY2lM .mbr-slider .carousel-control {
