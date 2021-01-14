@@ -1091,105 +1091,46 @@ section.lazy-placeholder:after {
 .cid-rweW10Harg H2 {
   color: #ffffff;
 }
-.cid-sjrSO8P2PK {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-slDjARgmgW {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
-.cid-sjrSO8P2PK h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-slDjARgmgW img,
+.cid-slDjARgmgW .item-img {
+  width: 100%;
 }
-.cid-sjrSO8P2PK p {
-  color: #767676;
-  text-align: left;
+.cid-slDjARgmgW .item:focus,
+.cid-slDjARgmgW span:focus {
+  outline: none;
 }
-.cid-sjrSO8P2PK .card-box {
-  padding-top: 2rem;
+.cid-slDjARgmgW .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
 }
-.cid-sjrSO8P2PK .card-wrapper {
+.cid-slDjARgmgW .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #000000;
   height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
 }
-.cid-r3UkFcFXGB {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
+@media (min-width: 992px) {
+  .cid-slDjARgmgW .item-wrapper .item-content {
+    padding: 2rem;
+  }
 }
-.cid-r3UkFcFXGB h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+@media (max-width: 991px) {
+  .cid-slDjARgmgW .item-wrapper .item-content {
+    padding: 1rem;
+  }
 }
-.cid-r3UkFcFXGB p {
-  color: #767676;
-  text-align: left;
+.cid-slDjARgmgW .mbr-section-btn {
+  margin-top: auto !important;
 }
-.cid-r3UkFcFXGB .card-box {
-  padding-top: 2rem;
-}
-.cid-r3UkFcFXGB .card-wrapper {
-  height: 100%;
-}
-.cid-r3UmIeQoJJ {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #000000;
-}
-.cid-r3UmIeQoJJ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-r3UmIeQoJJ p {
-  color: #767676;
-  text-align: left;
-}
-.cid-r3UmIeQoJJ .card-box {
-  padding-top: 2rem;
-}
-.cid-r3UmIeQoJJ .card-wrapper {
-  height: 100%;
-}
-.cid-rwFuEKjWbk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rwFuEKjWbk h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rwFuEKjWbk p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rwFuEKjWbk .card-box {
-  padding-top: 2rem;
-}
-.cid-rwFuEKjWbk .card-wrapper {
-  height: 100%;
-}
-.cid-rY7JhLa0vk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rY7JhLa0vk h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rY7JhLa0vk p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rY7JhLa0vk .card-box {
-  padding-top: 2rem;
-}
-.cid-rY7JhLa0vk .card-wrapper {
-  height: 100%;
+.cid-slDjARgmgW .mbr-section-title {
+  color: #232323;
 }
 .cid-sd0eX5Q8Vm {
   padding-top: 15px;
@@ -4239,122 +4180,96 @@ section.lazy-placeholder:after {
 .cid-rqiIlun1tK .dropdown-item:hover {
   color: #a6a6a6 !important;
 }
-.cid-rbGcPa07zp {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/youtube-cover-2000x11256.jpg");
+.cid-slDnqLi1cb {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/antravity-2-world-android-unity-2020.2.0b11.3484-personal-dx11-on-dx10-gpu-11-28-2020-12-29-58-am-1280x951.png");
 }
-.cid-sgTKuNF2E8 {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rbGcPcz9Jb {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rbGcPdLzBf {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/demon-5r-1920x10800.jpg");
-}
-.cid-rbGcPdLzBf h2 {
-  text-align: center;
-}
-.cid-rbGcPdLzBf h3 {
-  text-align: center;
-  font-weight: 300;
-}
-.cid-rbGcPdLzBf p {
-  color: #767676;
-}
-.cid-rbGcPdLzBf .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rbGcPdLzBf .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rbGcPdLzBf .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-rbGcPdLzBf .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rbGcPdLzBf .card-title {
-  font-weight: 500;
-}
-.cid-rbGcPdLzBf .card-img {
-  text-align: inherit;
-}
-.cid-rbGcPdLzBf .card-img span {
-  font-size: 48px;
-  color: #707070;
+.cid-slDnqLi1cb .image-wrap img {
+  width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-rbGcPdLzBf .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
+  .cid-slDnqLi1cb .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-slDnqLi1cb .mbr-section-title {
+  color: #ffffff;
+}
+.cid-slDnqLi1cb .mbr-text,
+.cid-slDnqLi1cb .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-slDoRc46Dv {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-image: url("../../../assets/images/antravity-2-world-android-unity-2020.2.0b11.3484-personal-dx11-on-dx10-gpu-12-10-2020-8-03-14-pm-1280x951.png");
+}
+.cid-slDoRc46Dv .mbr-overlay {
+  background: #000000;
+  opacity: 0.6;
+}
+.cid-slDoRc46Dv img,
+.cid-slDoRc46Dv .item-img {
+  width: 100%;
+}
+.cid-slDoRc46Dv .item:focus,
+.cid-slDoRc46Dv span:focus {
+  outline: none;
+}
+.cid-slDoRc46Dv .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-slDoRc46Dv .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #000000;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-slDoRc46Dv .item-wrapper .item-content {
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rbGcPdLzBf .mbr-figure {
-    margin-bottom: 2rem;
+  .cid-slDoRc46Dv .item-wrapper .item-content {
+    padding: 1rem;
   }
 }
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rbGcPdLzBf .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
-  }
-  .cid-rbGcPdLzBf .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
-  }
-  .cid-rbGcPdLzBf .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-  }
+.cid-slDoRc46Dv .mbr-section-btn {
+  margin-top: auto !important;
 }
-.cid-rbGcPdLzBf .mbr-crt-title {
+.cid-slDoRc46Dv .mbr-section-title {
   color: #ffffff;
 }
-.cid-rbGcPdLzBf .mbr-section-title {
-  text-align: center;
+.cid-slDoRc46Dv .mbr-text,
+.cid-slDoRc46Dv .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
 }
-.cid-rbGcPdLzBf .mbr-section-title B {
-  color: #f9f9f9;
+.cid-slDoRc46Dv .item-title {
+  text-align: left;
+  color: #ffffff;
 }
-.cid-rqxJxN5xiG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-rqxJxN5xiG .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-rqxJxN5xiG .mbr-text {
+.cid-slDoRc46Dv .item-subtitle {
   text-align: left;
 }
-.cid-rgX1webI66 {
-  padding-top: 45px;
-  padding-bottom: 0px;
-  background-color: #000000;
+.cid-slDsixt3go {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-image: url("../../../assets/images/antravity-2-mainmenu-android-unity-2020.2.0b11.3484-personal-dx11-on-dx10-gpu-11-19-2020-2-24-10-pm-1280x951.png");
 }
-.cid-rbGcPfSXT2 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #000000;
+.cid-slDsixt3go .mbr-section-title {
+  color: #ffffff;
+}
+.cid-slDsixt3go .mbr-text,
+.cid-slDsixt3go .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rtiNYcS0rh {
   padding-top: 75px;
@@ -6846,15 +6761,15 @@ section.lazy-placeholder:after {
 .cid-riO7IlZRJw .mbr-section-title {
   color: #ffffff;
 }
+.cid-rXPKGYUKyK {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/cover1-1-1920x1080.png");
+}
 .cid-rY7MDXihOk {
   padding-top: 45px;
   padding-bottom: 45px;
   background-image: url("../../../assets/images/cover-1920x1080.png");
-}
-.cid-rXPKGYUKyK {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/newcoverjpg-2-1920x1080.jpeg");
 }
 .cid-r3TRRzozvq {
   padding-top: 45px;
